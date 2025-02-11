@@ -60,7 +60,7 @@ h1 {
 }
 
 .bn632-hover{
-    widhth: 160px;
+    width: 160px;
     font-size: 16px;
     font-weight: 600;
     color: #fff;
@@ -73,7 +73,7 @@ h1 {
     border-radius: 50px;
     -o-transition: all 0.4s ease-in-out;
     -webkit-transition: all 0.4s ease-in-out;
-    transition: all 0.4s easy 0.4s ease-in-out;
+    transition: all 0.4s ease 0.4s ease-in-out;
 }
 
 .bn632-hover:focus {
