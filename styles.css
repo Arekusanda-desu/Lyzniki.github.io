@@ -60,7 +60,7 @@ h1 {
 }
 
 .bn632-hover{
-    widht: 160px;
+    widhth: 160px;
     font-size: 16px;
     font-weight: 600;
     color: #fff;
@@ -76,7 +76,7 @@ h1 {
     transition: all 0.4s easy 0.4s ease-in-out;
 }
 
-.bn632-hover:focus: {
+.bn632-hover:focus {
 outline: none;
 }
 
@@ -87,6 +87,6 @@ outline: none;
         #852d91,
         #a3a1ff,
         #f24645
-        );
+    );
     box-shadow: 0 4px 15px 0 rgba(126, 52, 161, 0.75);
 }
