@@ -47,18 +47,6 @@ h1 {
      color: #ff6600;
 }
 
-.info-box {
-    position: absolute;
-    bottom: 20px;
-    left: 50%;
-    transform: translateX(-50%);
-    background-color: #add8e6;
-    padding: 15px;
-    text-align: center;
-    font-size: 15px;
-    border: 1px solid black;
-}
-
 .bn632-hover{
     width: 160px;
     font-size: 16px;
