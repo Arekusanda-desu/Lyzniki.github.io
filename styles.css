@@ -64,7 +64,7 @@ h1 {
     transition: all 0.4s ease 0.4s ease-in-out;
     outline: none;
     display: flex;
-    justify-content: centre;
+    justify-content: center;
 }
 
 .bn632-hover:focus, 
