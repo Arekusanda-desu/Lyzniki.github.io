@@ -46,6 +46,12 @@ h1 {
 .cell:hover a {
      color: #ff6600;
 }
+.info-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    heighg: 100vh;
+    }
 
 .bn632-hover{
     width: 160px;
