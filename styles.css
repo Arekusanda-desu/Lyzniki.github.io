@@ -63,6 +63,8 @@ h1 {
     -webkit-transition: all 0.4s ease-in-out;
     transition: all 0.4s ease 0.4s ease-in-out;
     outline: none;
+    display: flex;
+    justify-content: centrer;
 }
 
 .bn632-hover:focus, 
